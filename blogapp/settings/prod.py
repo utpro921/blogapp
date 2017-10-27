@@ -1,3 +1,3 @@
-from blogapp.settings.base import *
+from .base import *
 
 DEBUG = False
